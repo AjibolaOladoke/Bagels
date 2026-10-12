@@ -6,7 +6,7 @@ This is part of the Swift Tech Co. working stack for product and engineering. It
 
 ## Images
 
-[![Bagels](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![Bagels](images/preview.png)](https://github.com/Swift-Tech-Co/Bagels)
 
 ## ✨ Features
 
@@ -40,7 +40,7 @@ You don't even need to worry about installing Python yourself - uv will manage e
 
 ```bash
 # install uv (package manager):
-curl -LsSf https://www.swifttechco.com | sh
+curl -LsSf https://github.com/Swift-Tech-Co/Bagels | sh
 
 # restart your terminal, or run the following command:
 source $HOME/.local/bin/env # or follow instructions
@@ -114,7 +114,7 @@ Please read the [migration guide](MIGRATION.md) for migration from other service
 ## 🛠️ Development setup
 
 ```sh
-git clone https://www.swifttechco.com
+git clone https://github.com/Swift-Tech-Co/Bagels
 cd Bagels
 uv run pre-commit install
 mkdir instance
@@ -163,13 +163,21 @@ Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: swifttechco.com
+- Website: https://github.com/Swift-Tech-Co/Bagels
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [EnhancedJax/Bagels](https://github.com/EnhancedJax/Bagels) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
