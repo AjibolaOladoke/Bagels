@@ -178,3 +178,11 @@ Compiled and maintained from upstream [EnhancedJax/Bagels](https://github.com/En
 ---
 
 Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
+
+## Sources
+
+Compiled and maintained from upstream [EnhancedJax/Bagels](https://github.com/EnhancedJax/Bagels) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
