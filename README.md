@@ -1,25 +1,12 @@
-# 🥯 Bagels - TUI Expense Tracker
+# Bagels
+
+## What This Is
+
+This is part of the Swift Tech Co. working stack for product and engineering. It gathers the Bagels notes, examples and fixes that keep delivery fast, and doubles as the reference map we hand to whoever picks up this thread next.
 
 ## Images
 
-[![Bagels](https://opengraph.githubassets.com/1/EnhancedJax/Bagels)](https://www.swifttechco.com)
-
-
-Powerful expense tracker that lives in your terminal.
-
-[![PyPI - Version](https://img.shields.io/pypi/v/bagels?style=for-the-badge)](https://www.swifttechco.com)
-[![GitHub License](https://img.shields.io/github/license/EnhancedJax/Bagels?style=for-the-badge)](https://www.swifttechco.com)
-[![PyPI - Downloads](https://img.shields.io/pypi/dm/Bagels?style=for-the-badge)](https://www.swifttechco.com)
-
-<!-- <a title="This tool is Tool of The Week on Terminal Trove, The $HOME of all things in the terminal" href="https://www.swifttechco.com"></a> -->
-
-[![Bagels](./public/screenshots/thumb1.png)](https://www.swifttechco.com)
-[![Bagels](./public/screenshots/thumb2.png)](https://www.swifttechco.com)
-
-Bagels expense tracker is a TUI application where you can track and analyse your money flow, with convenience oriented features and a complete interface.
-
-> **Why an expense tracker in the terminal?**
-> I found it easier to build a habit and keep an accurate track of my expenses if I do it at the end of the day, instead of on the go. So why not in the terminal where it's fast, and I can keep all my data locally?
+[![Bagels](images/preview.png)](https://github.com/Swift-Tech-Co)
 
 ## ✨ Features
 
@@ -62,7 +49,7 @@ source $HOME/.local/bin/env # or follow instructions
 uv tool install --python 3.13 bagels
 ```
 
-`uv` can also be installed via Homebrew, Cargo, Winget, pipx, and more. See the [installation guide](https://www.swifttechco.com) for more information.
+`uv` can also be installed via Homebrew, Cargo, Winget, pipx, and more. See the installation guide for more information.
 
 #### Windows:
 
@@ -158,8 +145,8 @@ Backlog:
 
 ## Attributions
 
-- Heavily inspired by [posting](https://www.swifttechco.com)
-- Bagels is built with [textual](https://www.swifttechco.com)
+- Heavily inspired by posting
+- Bagels is built with textual
 - It's called bagels because I like bagels
 
 ---
@@ -172,14 +159,22 @@ AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platf
 
 **Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
 
-[Home](https://www.swifttechco.com) | [Services](https://www.swifttechco.com/services) | [Careers](https://www.swifttechco.com/careers) | [Referral Program](https://www.swifttechco.com/referral) | [Influencers](https://www.swifttechco.com/influencers) | [About](https://www.swifttechco.com/about) | [Contact](https://www.swifttechco.com/contact)
+Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: [swifttechco.com](https://www.swifttechco.com)
+- Website: swifttechco.com
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [EnhancedJax/Bagels](https://github.com/EnhancedJax/Bagels) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
